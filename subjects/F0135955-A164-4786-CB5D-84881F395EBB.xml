@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F0135955-A164-4786-CB5D-84881F395EBB" ownedBy="ABABD13C-A69F-499E-CA7F-5118F3684E4D">
+  <arch:name>
+    <arch:string>Sample Tab. 3: 974</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_c5193ec15</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>FE7DC89D-842F-4CF6-79E7-D024F5023709</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/F3660BB9-EF17-405D-7F1D-87ABBF03EF7B">F3660BB9-EF17-405D-7F1D-87ABBF03EF7B</oc:propid>
+          <oc:var_label type="nominal">Table</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9DA1EDD1-98B4-4B69-6196-5DA444A049EA</arch:variableID>
+          <arch:valueID>AA150D90-C6F4-4F1D-FCFF-AF617AE673A6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F55DB585-99FE-470D-C733-737EA5500737">F55DB585-99FE-470D-C733-737EA5500737</oc:propid>
+          <oc:var_label type="alphanumeric">MURR ID</oc:var_label>
+          <oc:show_val>PPAP0001</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4113352-D726-4F71-B729-13068380432A</arch:variableID>
+          <arch:valueID>ED25F99D-21D1-4870-5943-A5A1FBE6A20D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5A9668FB-BC6A-4F4A-9839-1E03584AFE68">5A9668FB-BC6A-4F4A-9839-1E03584AFE68</oc:propid>
+          <oc:var_label type="alphanumeric">Alternate ID</oc:var_label>
+          <oc:show_val>P33.1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>469C24F2-90F0-4005-322F-B9384D9EDD5C</arch:variableID>
+          <arch:decimal>3</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/EFAE36C0-807F-4A06-4251-B1A54AF51EA4">EFAE36C0-807F-4A06-4251-B1A54AF51EA4</oc:propid>
+          <oc:var_label type="decimal">NAA Group</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DE6244E8-63A6-4042-622D-AC0AA96E3100</arch:variableID>
+          <arch:valueID>6B53589F-8C95-4736-072E-A3FFFA1C1ABE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C209406F-3A25-4988-93E6-BDB7D7997E2B">C209406F-3A25-4988-93E6-BDB7D7997E2B</oc:propid>
+          <oc:var_label type="nominal">Cyprus Geological Attibution</oc:var_label>
+          <oc:show_val>Troodos ophiolite</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EE42773B-CF5D-450A-50C6-4C3DE1693882</arch:variableID>
+          <arch:valueID>194AE868-0CE3-4624-7EC0-E495DFEC495C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0F722376-4894-4A60-D038-6E3775A03515">0F722376-4894-4A60-D038-6E3775A03515</oc:propid>
+          <oc:var_label type="alphanumeric">Ware</oc:var_label>
+          <oc:show_val>White Slip I</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5275A6A8-6405-43A0-F79A-1504D859D3A2</arch:variableID>
+          <arch:valueID>5A9410AB-0C4A-41A7-553F-D34718BC6B88</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AB6605EF-8E62-4B39-5183-D8FD55C5B11C">AB6605EF-8E62-4B39-5183-D8FD55C5B11C</oc:propid>
+          <oc:var_label type="alphanumeric">Fabric</oc:var_label>
+          <oc:show_val>Red and grey</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>628996B7-23A1-4854-F91F-B37EF11AC78D</arch:variableID>
+          <arch:valueID>7B7A28FE-77C1-424B-E85E-63C7A6E3D002</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/03160018-F316-4075-C0AF-516719DEB8DD">03160018-F316-4075-C0AF-516719DEB8DD</oc:propid>
+          <oc:var_label type="alphanumeric">Context</oc:var_label>
+          <oc:show_val>Asproyi, Pit 33</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DDCFEDD1-620E-40B5-053E-AF2EEB6D8B7C</arch:variableID>
+          <arch:valueID>7A3FBFC3-D0E0-4632-1888-5AD96C1A28BB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A89C4250-7675-4A3F-1641-01710A4FC976">A89C4250-7675-4A3F-1641-01710A4FC976</oc:propid>
+          <oc:var_label type="nominal">Source/Person</oc:var_label>
+          <oc:show_val>Karageorghis, Vassos</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F9DA3B15-6A5A-4954-0932-2B00FF41F5BB</arch:variableID>
+          <arch:decimal>37</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/5629CF16-50EB-4483-0080-DD5B117E16D7">5629CF16-50EB-4483-0080-DD5B117E16D7</oc:propid>
+          <oc:var_label type="decimal">Group</oc:var_label>
+          <oc:show_val>37</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>60CA949D-24AE-4ECC-A35E-222F3A1D8965</arch:variableID>
+          <arch:valueID>454DCCB5-5F5B-46BF-C8B9-4429F240194F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CD6AEDF0-1D16-4A41-197E-54ADD74801B2">CD6AEDF0-1D16-4A41-197E-54ADD74801B2</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>1500-1400 B.C.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3F557174-F27B-4DB9-F3FC-6B620EBBF8AF</arch:variableID>
+          <oc:annotations about="3F557174-F27B-4DB9-F3FC-6B620EBBF8AF" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Barium" name="Barium" abrv="Ba">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">3.090024331</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/AD69B3B2-7F83-4DAA-6B50-9C4CC7BBB5E2">AD69B3B2-7F83-4DAA-6B50-9C4CC7BBB5E2</oc:propid>
+          <oc:var_label type="decimal">Ba</oc:var_label>
+          <oc:show_val>3.090024331</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DD716A75-DD28-4590-0797-A20431C4BD8A</arch:variableID>
+          <arch:decimal>0.08296837</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E26C44F9-7591-43CD-F576-88913CAB22BE">E26C44F9-7591-43CD-F576-88913CAB22BE</oc:propid>
+          <oc:var_label type="decimal">Ca %</oc:var_label>
+          <oc:show_val>0.08296837</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0C810ACA-965C-4B6B-A131-60BFE6BE0717</arch:variableID>
+          <oc:annotations about="0C810ACA-965C-4B6B-A131-60BFE6BE0717" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Cerium" name="Cerium" abrv="Ce">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.447688564</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9A2F5B38-8FAC-4DD5-5994-7C113F19C41B">9A2F5B38-8FAC-4DD5-5994-7C113F19C41B</oc:propid>
+          <oc:var_label type="decimal">Ce</oc:var_label>
+          <oc:show_val>0.447688564</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9E412E16-063D-4213-0C93-D5C4B1EC6116</arch:variableID>
+          <oc:annotations about="9E412E16-063D-4213-0C93-D5C4B1EC6116" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Cobalt" name="Cobalt" abrv="Co">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.923600973</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D16C5970-D8D2-416D-8AD9-41C494D3C8C1">D16C5970-D8D2-416D-8AD9-41C494D3C8C1</oc:propid>
+          <oc:var_label type="decimal">Co</oc:var_label>
+          <oc:show_val>0.923600973</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0C82AA3A-00AE-4F9B-CD5D-31BB651D4AAA</arch:variableID>
+          <oc:annotations about="0C82AA3A-00AE-4F9B-CD5D-31BB651D4AAA" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Chromium" name="Chromium" abrv="Cr">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">4.411192214</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/304B131F-5CEF-4E6D-4E00-A3BADE0B313C">304B131F-5CEF-4E6D-4E00-A3BADE0B313C</oc:propid>
+          <oc:var_label type="decimal">Cr</oc:var_label>
+          <oc:show_val>4.411192214</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8CD361D4-0C9A-4CAF-2DCB-1CD5EF305241</arch:variableID>
+          <oc:annotations about="8CD361D4-0C9A-4CAF-2DCB-1CD5EF305241" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Caesium" name="Caesium" abrv="Cs">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.02919708</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E35C2022-15C2-4A71-6B40-E503CD601920">E35C2022-15C2-4A71-6B40-E503CD601920</oc:propid>
+          <oc:var_label type="decimal">Cs</oc:var_label>
+          <oc:show_val>0.02919708</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DF658046-33BA-4B12-18CA-8C30D70E8C19</arch:variableID>
+          <oc:annotations about="DF658046-33BA-4B12-18CA-8C30D70E8C19" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Europium" name="Europium" abrv="Eu">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.016982968</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/1E1912E6-405D-4577-2562-14DFDABA5026">1E1912E6-405D-4577-2562-14DFDABA5026</oc:propid>
+          <oc:var_label type="decimal">Eu</oc:var_label>
+          <oc:show_val>0.016982968</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5AFC79CA-343D-414D-8379-B547709666AC</arch:variableID>
+          <arch:decimal>0.166666667</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/CE631D2F-4951-4C99-24AA-75A864C8C922">CE631D2F-4951-4C99-24AA-75A864C8C922</oc:propid>
+          <oc:var_label type="decimal">Fe %</oc:var_label>
+          <oc:show_val>0.166666667</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0C76079F-D748-4524-0900-F683D999D33E</arch:variableID>
+          <oc:annotations about="0C76079F-D748-4524-0900-F683D999D33E" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Hafnium" name="Hafnium" abrv="Hf">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.063017032</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/3E88228E-8B72-48C8-F9C7-55E27DAC2E03">3E88228E-8B72-48C8-F9C7-55E27DAC2E03</oc:propid>
+          <oc:var_label type="decimal">Hf</oc:var_label>
+          <oc:show_val>0.063017032</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EEEA7BFA-81DA-45A8-FD34-5E261E52FE62</arch:variableID>
+          <arch:decimal>0.016788321</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/79E02171-CE61-4CC4-B2AD-E58ACD61934C">79E02171-CE61-4CC4-B2AD-E58ACD61934C</oc:propid>
+          <oc:var_label type="decimal">K %</oc:var_label>
+          <oc:show_val>0.016788321</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>83BEB274-8203-4FC0-C35C-44C78021EE67</arch:variableID>
+          <oc:annotations about="83BEB274-8203-4FC0-C35C-44C78021EE67" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Lanthanum" name="Lanthanum" abrv="La">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.221654501</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/07F154D8-F1D7-4D38-812F-B36EFB218B50">07F154D8-F1D7-4D38-812F-B36EFB218B50</oc:propid>
+          <oc:var_label type="decimal">La</oc:var_label>
+          <oc:show_val>0.221654501</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3C780FBE-8805-4EE2-4DC0-8B5C24853E0A</arch:variableID>
+          <arch:decimal>0.02593674</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D89E5FDC-A594-4C33-7E11-C149F9F31FD9">D89E5FDC-A594-4C33-7E11-C149F9F31FD9</oc:propid>
+          <oc:var_label type="decimal">Na %</oc:var_label>
+          <oc:show_val>0.02593674</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>88126297-DBE7-401F-0490-9833DE1FD33B</arch:variableID>
+          <oc:annotations about="88126297-DBE7-401F-0490-9833DE1FD33B" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Rubidium" name="Rubidium" abrv="Rb">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.948905109</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/AC98CF4A-F41A-483E-902C-CCB2853C969B">AC98CF4A-F41A-483E-902C-CCB2853C969B</oc:propid>
+          <oc:var_label type="decimal">Rb</oc:var_label>
+          <oc:show_val>0.948905109</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2CCC5CC0-325D-465D-E7DF-46328DAE355B</arch:variableID>
+          <oc:annotations about="2CCC5CC0-325D-465D-E7DF-46328DAE355B" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Antimony" name="Antimony" abrv="Sb">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.00243309</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/07BF79CD-DC52-459C-E121-75C5604E5828">07BF79CD-DC52-459C-E121-75C5604E5828</oc:propid>
+          <oc:var_label type="decimal">Sb</oc:var_label>
+          <oc:show_val>0.00243309</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>89F36942-C52F-4988-3889-4E61279ECAE9</arch:variableID>
+          <oc:annotations about="89F36942-C52F-4988-3889-4E61279ECAE9" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Scandium" name="Scandium" abrv="Sc">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/BDF8D8AD-5F77-41AC-DD90-FB4C80D6A52C">BDF8D8AD-5F77-41AC-DD90-FB4C80D6A52C</oc:propid>
+          <oc:var_label type="decimal">Sc</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3CBEF9C8-E6E8-4E3C-18E5-58094C10648B</arch:variableID>
+          <oc:annotations about="3CBEF9C8-E6E8-4E3C-18E5-58094C10648B" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Samarium" name="Samarium" abrv="Sm">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.052238443</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/8200FF11-7720-49E6-1040-1AF0A2F13960">8200FF11-7720-49E6-1040-1AF0A2F13960</oc:propid>
+          <oc:var_label type="decimal">Sm</oc:var_label>
+          <oc:show_val>0.052238443</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>01BACB03-C259-48BC-BAC4-EF5786080957</arch:variableID>
+          <oc:annotations about="01BACB03-C259-48BC-BAC4-EF5786080957" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Tantalum" name="Tantalum" abrv="Ta">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.008126521</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/20B43766-49D9-45B8-C7C5-4D4052B90C79">20B43766-49D9-45B8-C7C5-4D4052B90C79</oc:propid>
+          <oc:var_label type="decimal">Ta</oc:var_label>
+          <oc:show_val>0.008126521</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CDF45AA8-C190-4A3C-595A-4A293F3F8F82</arch:variableID>
+          <oc:annotations about="CDF45AA8-C190-4A3C-595A-4A293F3F8F82" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Terbium" name="Terbium" abrv="Tb">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.010340633</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F3DCA5EF-3F91-4633-A91A-5908DB07F11C">F3DCA5EF-3F91-4633-A91A-5908DB07F11C</oc:propid>
+          <oc:var_label type="decimal">Tb</oc:var_label>
+          <oc:show_val>0.010340633</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>30143742-74D4-434B-B2ED-1FC7871BD151</arch:variableID>
+          <oc:annotations about="30143742-74D4-434B-B2ED-1FC7871BD151" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Thorium" name="Thorium" abrv="Th">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.060583942</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F7ECDE8C-DED8-469C-92FE-0E9E6F0D3E98">F7ECDE8C-DED8-469C-92FE-0E9E6F0D3E98</oc:propid>
+          <oc:var_label type="decimal">Th</oc:var_label>
+          <oc:show_val>0.060583942</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>363D124D-B02F-43CE-BBD3-98B9AB78045F</arch:variableID>
+          <oc:annotations about="363D124D-B02F-43CE-BBD3-98B9AB78045F" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Uranium" name="Uranium" abrv="U">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.01459854</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/EC9CF438-EB06-4EA8-CF75-F6F3700E81BF">EC9CF438-EB06-4EA8-CF75-F6F3700E81BF</oc:propid>
+          <oc:var_label type="decimal">U</oc:var_label>
+          <oc:show_val>0.01459854</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C7DF63DD-4E6E-462A-1629-E71FF3DFDB68</arch:variableID>
+          <oc:annotations about="C7DF63DD-4E6E-462A-1629-E71FF3DFDB68" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="technique"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Neutron_activation_analysis" name="Neutron Activation Analysis" abrv="NAA">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Ytterbium" name="Ytterbium" abrv="Yb">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">0.031873479</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/482DFB04-B30D-442B-486A-D5F7B907B8E4">482DFB04-B30D-442B-486A-D5F7B907B8E4</oc:propid>
+          <oc:var_label type="decimal">Yb</oc:var_label>
+          <oc:show_val>0.031873479</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+        <oc:name>Cyprus</oc:name>
+        <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/36D653A2-47ED-4D4A-F20A-D6E7777197FD">
+        <oc:name>Palaepaphos</oc:name>
+        <oc:id>36D653A2-47ED-4D4A-F20A-D6E7777197FD</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Ceramics, Trade, Provenience and Geology: Cyprus in the Late Bronze Age: Sample Tab. 3: 974 (Sample)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-09-21</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>ceramics</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>Late Bronze Age</dc:subject>
+    <dc:subject>multivariate comparison</dc:subject>
+    <dc:subject>Neutron Activation Analysis</dc:subject>
+    <dc:subject>pottery</dc:subject>
+    <dc:subject>provenience</dc:subject>
+    <dc:subject>Red Lustrous Wheel Made Ware</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/61EDB60B-A779-4DE3-73C0-C991B1909925">Peter Grave</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/67D2ACBD-0A7A-4F3F-3FAD-9A2E80034EA4">Lisa Kealhofer</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/F2ECDE67-46F1-4797-4D4B-302CBFDBFBE0">Ben Marsh</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/BA518A5D-DAB8-4DF3-AF66-A2FCE86CDFC3">Ulf-Dietrich Schoop</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/DA4F9183-6278-452F-AF2C-A28DC6978D9E">Jürgen Seeher</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/9AA82452-CFEA-40E1-DA9E-464687E8A598">John W. Bennett</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/E9E24EC5-5516-4ECD-9546-08C502AC8457">Attila Stopic</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/F0135955-A164-4786-CB5D-84881F395EBB</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/ABABD13C-A69F-499E-CA7F-5118F3684E4D">Ceramics, Trade, Provenience and Geology: Cyprus in the Late Bronze Age</oc:project_name>
+    <oc:pub_date>2013-09-21T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Ceramics%2C+Trade%2C+Provenience+and+Geology%3A+Cyprus+in+the+Late+Bronze+Age%3A+Sample+Tab.+3%3A+974+%28Sample%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=ceramics&amp;rft.subject=Cyprus&amp;rft.subject=Late+Bronze+Age&amp;rft.subject=multivariate+comparison&amp;rft.subject=Neutron+Activation+Analysis&amp;rft.subject=pottery&amp;rft.subject=provenience&amp;rft.subject=Red+Lustrous+Wheel+Made+Ware&amp;rft.creator=Peter+Grave&amp;rft.creator=Lisa+Kealhofer&amp;rft.creator=Ben+Marsh&amp;rft.creator=Ulf-Dietrich+Schoop&amp;rft.creator=J%C3%BCrgen+Seeher&amp;rft.creator=John+W.+Bennett&amp;rft.creator=Attila+Stopic&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF0135955-A164-4786-CB5D-84881F395EBB</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.707147</oc:geo_lat>
+      <oc:geo_long>32.573711</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/36D653A2-47ED-4D4A-F20A-D6E7777197FD">
+        <oc:source_name>Palaepaphos</oc:source_name>
+        <oc:source_id>36D653A2-47ED-4D4A-F20A-D6E7777197FD</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-12-18T00:21:30-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/12/18 00:21:30</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,500 BCE - 1,400 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1500</oc:time_start>
+          <oc:time_finish>-1400</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/F0135955-A164-4786-CB5D-84881F395EBB">
+            <oc:source_name>Sample Tab. 3: 974</oc:source_name>
+            <oc:source_id>F0135955-A164-4786-CB5D-84881F395EBB</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-12-17T09:34:01-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
